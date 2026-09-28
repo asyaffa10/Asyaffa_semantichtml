@@ -1,0 +1,39 @@
+/*Header*/
+.header {
+    background-color: pink;
+    color: bisque;
+    text-align: center;
+    padding: 30px;
+}
+/*Menu*/
+.menu {
+    background-color: palevioletred;
+    padding: 15px;
+    text-align: center;
+}
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+/*Konten*/
+.konten {
+    background-color: pink;
+    padding: 25px;
+    margin: 20px;
+    border-radius: 10px;
+}
+/*Informasi*/
+.informasi {
+    background-color: pink;
+    padding: 20px;
+    margin: 20px;
+    border-left: 5px solid rgb(255, 156, 156);
+}
+/*Footer*/
+.footer {
+    background-color: pink;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px;
+}
